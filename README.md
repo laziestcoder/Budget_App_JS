@@ -17,6 +17,18 @@
 ### 6. Update the UI
 
 ## Modules
-### 1. 
+### 1. UI Modules
+### 2. Data Modules
 
+## UI Modules
+### Get Input Values
+### Add the new item to the UI
+### Update the UI
+
+## Data Modules
+### Add the item to our data structure
+### Calculate Budget
+
+## Controller Module
+### Add event controller
 
