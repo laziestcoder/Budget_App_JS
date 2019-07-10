@@ -32,3 +32,6 @@
 ## Controller Module
 ### Add event controller
 
+# Final Architecture
+![](FinalArchitecture.jpg)
+
